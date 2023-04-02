@@ -1,5 +1,0 @@
-;!@Install@!UTF-8!
-Title="Tastaturlayout Denglisch-1.0"
-BeginPrompt="Willst du das Tastaturlayout Denglisch-1.0 Installieren?"
-ExecuteFile="setup.exe"
-;!@InstallEnd@!
